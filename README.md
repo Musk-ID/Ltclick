@@ -25,7 +25,7 @@ $ pkg install git
 $ pkg install php
 $ git clone https://github.com/Musk-ID/Ltclick
 $ cd Ltclick
-$ python bot.php
+$ php bot.php
 ```
 ```
 Please take cookies from web ltclick.com
